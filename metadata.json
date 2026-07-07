@@ -1,0 +1,6 @@
+{
+  "name": "CrateDigger",
+  "description": "A personal AI agent for vinyl and record collectors to log collections, manage wishlists, estimate prices, and track budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
